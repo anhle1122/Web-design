@@ -94,5 +94,4 @@ The Soft Focus Club homepage serves as a gentle invitation into a community-focu
 ---
 
 **View the live site:**  
-🔗 [https://anhle1122.github.io/Web-design/codepath-prework/](https://anhle1122.github.io/Web-design/codepath-prework/)
-
+🔗 https://681e7a45941c4cd22cef4fa1--cerulean-naiad-8e358e.netlify.app/
